@@ -12,10 +12,10 @@ This project aims to collect sample data from MongoDB Atlas and preprocess it to
 - PowerBI
 
 ## Steps Involved in This Project
-** 1. Data Collection:** Obtain the connection string from MongoDB Atlas and connect with MongoDB Compass to download the JSON file containing sample data.
-** 2. Data Preprocessing:** Preprocess the data in Jupyter Notebook to structure it appropriately for analysis.
-** 3. Exploratory Data Analysis (EDA):** Conduct EDA to identify missing values and outliers in the data.
-** 4. Data Visualization:** Use Streamlit to create a web application that visualizes insights derived from the data. Additionally, create a PowerBI dashboard for interactive data analysis.
+**1. Data Collection:** Obtain the connection string from MongoDB Atlas and connect with MongoDB Compass to download the JSON file containing sample data.
+**2. Data Preprocessing:** Preprocess the data in Jupyter Notebook to structure it appropriately for analysis.
+**3. Exploratory Data Analysis (EDA):** Conduct EDA to identify missing values and outliers in the data.
+**4. Data Visualization:** Use Streamlit to create a web application that visualizes insights derived from the data. Additionally, create a PowerBI dashboard for interactive data analysis.
 
 ## Data Collection
 - Obtain MongoDB Atlas connection string.
