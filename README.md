@@ -1,4 +1,4 @@
-# airbnb_analysis
+# Airbnb_analysis
 
 ## Project Objective
 This project aims to collect sample data from MongoDB Atlas and preprocess it to create structured data. This structured data undergoes an Exploratory Data Analysis (EDA) process to ensure it is free of missing values and outliers. The data is then converted to a CSV file and imported into a Streamlit application to visualize the insights derived from it. A PowerBI dashboard is also created with this CSV file.
